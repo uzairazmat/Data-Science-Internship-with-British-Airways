@@ -47,5 +47,11 @@ This repository contains the projects completed as part of my Data Science Inter
 
 ---
 
-## 📂 Folder Structure:
+
+---
+
+## 📧 Contact
+Feel free to connect with me on [LinkedIn]([https://linkedin.com/in/uzair-azmat](https://www.linkedin.com/in/uzair-azmat/)) 
+
+
 
